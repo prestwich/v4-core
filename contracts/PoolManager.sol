@@ -41,7 +41,7 @@ contract PoolManager is IPoolManager, NoDelegateCall, ERC1155, IERC1155Receiver 
 
     uint256 private immutable controllerGasLimit;
 
-    address public protocolFeeController;
+    address internal protocolFeeController;
 
     address[] public lockedBy;
 
