@@ -1,4 +1,4 @@
-## 🏴‍☠️ Uni v4 core piracy 🏴‍☠️
+## 🏴‍☠️ Uni v4 Hayden's Vision 🏴‍☠️
 
 This repo is in violation of the terms of the BSL. The BSL is dumb and we should all collectively agree to violate it.
 
