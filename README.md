@@ -10,7 +10,7 @@ Changes made
 
 ### Deploying:
 
-Currently the contract is too large to deploy. Eventually that will change I assume.
+This code has been deployed to [Goerli](https://goerli.etherscan.io/address/0x730e2011643511eb37a9eb315ac520df694aac3b)
 
 ```
 forge c PoolManager --rpc-url $MY_RPC --private-key $MY_PRIVATE_KEY --constructor-args $CONTROLLER_GAS_LIMIT --verify
