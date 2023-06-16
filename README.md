@@ -1,4 +1,4 @@
-## Uni v4 core piracy
+## 🏴‍☠️ Uni v4 core piracy 🏴‍☠️
 
 This repo is in violation of the terms of the BSL. The BSL is dumb and we should all collectively agree to violate it.
 
@@ -110,13 +110,3 @@ contract MyContract is ILockCallback {
 }
 
 ```
-
-## License
-
-The primary license for Uniswap V4 Core is the Business Source License 1.1 (`BUSL-1.1`), see [LICENSE](https://github.com/Uniswap/v4-core/blob/main/LICENSE). Minus the following exceptions:
-
-- [Interfaces](./contracts/interfaces) have a General Public License
-- Some [libraries](./contracts/libraries) and [types](./contracts/types/) have a General Public License
-- [FullMath.sol](./contracts/libraries/FullMath.sol) has an MIT License
-
-Each of these files states their license type.
