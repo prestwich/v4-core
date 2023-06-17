@@ -63,7 +63,7 @@ contract PoolManager is IPoolManager, NoDelegateCall, ERC1155, IERC1155Receiver 
 
     mapping(address hookAddress => mapping(Currency currency => uint256)) public hookFeesAccrued;
 
-    constructor(uint256 _controllerGasLimit) ERC1155("") {
+    constructor(uint256 _controllerGasLimit) payable ERC1155("") {
         controllerGasLimit = _controllerGasLimit;
     }
 
