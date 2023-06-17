@@ -5,6 +5,9 @@ solc_version = '0.8.20'
 ffi = true
 fs_permissions = [{ access = "read-write", path = ".forge-snapshots/"}, { access = "read", path = "./foundry-out"}]
 via_ir = true
+evm_version = 'paris'
+
+[profile.shanghai]
 evm_version = 'shanghai'
 
 [profile.ci]
